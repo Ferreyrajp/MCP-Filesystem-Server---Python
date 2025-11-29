@@ -1,0 +1,16 @@
+{
+    "mcpServers": {
+        "filesystem": {
+            "command": "python",
+            "args": [
+                "i:/MCP-Server-filesystem/server.py",
+                "C:/Users/ferre/Documents",
+                "C:/Users/ferre/Desktop",
+                "C:/Users/ferre/Downloads",
+                "i:/MCP-Server-filesystem"
+            ],
+            "env": {},
+            "disabled": false
+        }
+    }
+}
